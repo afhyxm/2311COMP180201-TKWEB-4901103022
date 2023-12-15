@@ -343,10 +343,10 @@ img {
 	right: 70%;
 }
 @keyframes shark4{
-	0%   {left: 1200px; top: 200px;transform: scaleX(1);}
-	10%  {left: 1180px; top:180px;transform: scaleX(1);}
-	49.9%{left:0px; top:177px;transform: scaleX(1);}
-	50%  {left:0px; top:177px;transform: scaleX(-1);}
-	90%  {left:1180px; top:180px;transform: scaleX(-1);}
-	100% {left:1200px; top:200px;transform: scaleX(-1);}
+	0%   {right: 1200px; top: 200px;transform: scaleX(1);}
+	10%  {right: 1180px; top:180px;transform: scaleX(1);}
+	49.9%{right:0px; top:177px;transform: scaleX(1);}
+	50%  {right:0px; top:177px;transform: scaleX(-1);}
+	90%  {right:1180px; top:180px;transform: scaleX(-1);}
+	100% {right:1200px; top:200px;transform: scaleX(-1);}
 }
